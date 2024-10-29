@@ -1,4 +1,6 @@
-This project aims to build a machine learning model to classify emails as "spam" or "ham" (non-spam). It includes the following steps:
+# Spam Mail Classifier
+
+This project aims to build a machine learning model to classify emails as "spam" or "ham" (non-spam). :shipit: It includes the following steps:
 
 **Data Loading and Preprocessing:**
 - Load labeled data (spam and ham messages) and clean it by handling missing values.
